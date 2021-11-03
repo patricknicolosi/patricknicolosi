@@ -9,10 +9,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Dart | Flutter | Java | C++ | HTML | CSS 
-- 🛢 &nbsp; MySQL | Firebase 
+- 💻 &nbsp; Dart | Flutter | Java | C++ | HTML | CSS | Javascript
+- 🛢 &nbsp;  Firebase 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Blender | Gimp
+- 🖥 &nbsp;  Blender | Gimp
 
 <br>
 
