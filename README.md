@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning to use software Blender for 3d modelling
+- 🔭 &nbsp; I’m currently learning to use software Blender for 3d modelling.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer, front-end web developer and Flutter developer (Web, Mobile, Desktop).
-- 🌱 &nbsp; Enthusiast in Flutter development .
+- 🌱 &nbsp; Enthusiast in Flutter development.
 
 <h3>🛠 Tech Stack</h3>
 
