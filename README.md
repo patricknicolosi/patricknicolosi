@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Dart | Flutter | Java | C++ | HTML | CSS | Javascript
+- 💻 &nbsp; Dart | Flutter | Java | C++ | HTML | CSS
 - 🛢 &nbsp;  Firebase 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
 - 🖥 &nbsp;  Blender | Gimp
