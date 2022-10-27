@@ -2,22 +2,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning to use software Blender for 3d modelling.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer, front-end web developer and Flutter developer (Web, Mobile, Desktop).
-- 🌱 &nbsp; Enthusiast in Flutter development.
+- 🔭 &nbsp; I’m currently learning Unity for game develompment.
+- 🎓 &nbsp; Studying Computer Science.
+- 💼 &nbsp; Android developer, Flutter developer (Web, Mobile, Desktop).
+- ❤️ &nbsp; Enthusiast of 3d rendering alghoritms and Computer Graphics.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Programming languages, frameworks and software </h3>
 
-- 💻 &nbsp; Dart | Flutter | Java | C++ | HTML | CSS
-- 🛢 &nbsp;  Firebase 
+- 💻 &nbsp; Dart | Flutter | Java | C++ | C# | Unity
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp;  Blender | Gimp
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricknicolosi&text_color=daf7dc&bg_color=151515)](https://github.com/patricknicolosi/github-readme-stats)
-
 
 <h3>Connect with Me </h3>
 
