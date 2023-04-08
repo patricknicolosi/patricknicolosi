@@ -13,9 +13,6 @@
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
 
 
-<h3>🛠 Score </h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patricknicolosi)](https://git.io/streak-stats)
-
 <h3>Connect with Me </h3>
 
 <p align="left">
