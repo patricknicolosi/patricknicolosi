@@ -7,6 +7,7 @@
 - 💼 &nbsp; Android developer, Flutter developer (Web, Mobile, Desktop).
 - ❤️ &nbsp; Enthusiast of 3d rendering alghoritms and Computer Graphics.
 
+
 <h3>🛠 Programming languages, frameworks and software </h3>
 
 - 💻 &nbsp; Dart | Flutter | Java | C++ | C# | Unity
