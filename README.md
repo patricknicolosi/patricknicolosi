@@ -17,7 +17,10 @@
 <h3>🦺 Projects </h3>
 
 - <a href="https://github.com/patricknicolosi/spotify_flutter">Spotify Flutter</a> (A Spotify clone made with Flutter)
-- <a href="https://github.com/patricknicolosi/whatsapp_sender_flutter">WhatsApp Sender Flutter</a> (Unofficial whatsapp API via Web Scraping)
+- <a href="https://github.com/patricknicolosi/whatsapp_sender_flutter">WhatsApp Sender Flutter</a> (Unofficial whatsapp API via Web Scraping) 
+[![pub package](https://img.shields.io/pub/v/whatsapp_sender_flutter.svg)](https://pub.dev/packages/whatsapp_sender_flutter)
+[![pub popularity](https://img.shields.io/pub/popularity/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
+[![pub likes](https://img.shields.io/pub/likes/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
 
 
 <h3>Connect with Me </h3>
