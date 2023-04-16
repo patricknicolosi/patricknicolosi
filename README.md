@@ -23,6 +23,18 @@
 [![pub likes](https://img.shields.io/pub/likes/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
 
 
+<h3>Contributed</h3>
+Contributed to several open source projects
+
+- <a href="https://github.com/bdlukaa/fluent_ui">fluent_ui</a>
+- <a href="https://github.com/mastro993/verificaC19-flutter">verificaC19-flutter</a>
+- and someone else I can't remember...
+
+
+
+Contributed to several open source projects
+
+
 <h3>Connect with Me </h3>
 
 <p align="left">
