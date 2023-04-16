@@ -32,10 +32,6 @@ Contributed to several open source projects
 - and someone else I can't remember...
 
 
-
-Contributed to several open source projects
-
-
 <h3>Connect with Me </h3>
 
 <p align="left">
