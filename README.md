@@ -10,7 +10,7 @@
 
 <h3>🛠 Programming languages, frameworks and software </h3>
 
-- 💻 &nbsp; Dart | Flutter | Java | C++ | C# | Unity
+- 💻 &nbsp; Dart | Flutter | Java | C++ | C# | Unity | HTML | CSS | JS
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
 
 
