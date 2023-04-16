@@ -27,6 +27,7 @@
 Contributed to several open source projects
 
 - <a href="https://github.com/bdlukaa/fluent_ui">fluent_ui</a>
+- <a href="https://github.com/stryder-dev/flutter_platform_widgets">flutter_platform_widgets</a>
 - <a href="https://github.com/mastro993/verificaC19-flutter">verificaC19-flutter</a>
 - and someone else I can't remember...
 
