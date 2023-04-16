@@ -14,6 +14,12 @@
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
 
 
+<h3>🦺 Projects </h3>
+
+- <a href="https://github.com/patricknicolosi/spotify_flutter">Spotify Flutter</a> (A Spotify clone made with Flutter)
+- <a href="https://github.com/patricknicolosi/whatsapp_sender_flutter">WhatsApp Sender Flutter</a> (Unofficial whatsapp API via Web Scraping)
+
+
 <h3>Connect with Me </h3>
 
 <p align="left">
