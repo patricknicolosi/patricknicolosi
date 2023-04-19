@@ -21,6 +21,8 @@
 [![pub package](https://img.shields.io/pub/v/whatsapp_sender_flutter.svg)](https://pub.dev/packages/whatsapp_sender_flutter)
 [![pub popularity](https://img.shields.io/pub/popularity/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
 [![pub likes](https://img.shields.io/pub/likes/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
+- <a href="https://github.com/patricknicolosi/webclient">WebClient</a> (Simplified class for make GET request with Arduino and ENC28j60 Ethernet module)
+
 
 
 <h3>Contributed</h3>
