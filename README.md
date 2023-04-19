@@ -24,7 +24,7 @@
 
 
 <h3>Contributed</h3>
-Contributed to several open source projects
+Contributed to several interesting open source projects
 
 - <a href="https://github.com/bdlukaa/fluent_ui">fluent_ui</a>
 - <a href="https://github.com/stryder-dev/flutter_platform_widgets">flutter_platform_widgets</a>
