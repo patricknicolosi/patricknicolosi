@@ -10,7 +10,8 @@
 
 <h3>🛠 Programming languages, frameworks and software </h3>
 
-- 💻 &nbsp; Dart | Flutter | Java | C++ | C# | Unity | HTML | CSS | JS
+- 💻 &nbsp; Dart | Flutter | Java | C++ | C# | Unity | HTML | CSS | JS | NodeJS
+- 💾 &nbsp; Firebase | Isar | Sqlite
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
 
 
@@ -21,6 +22,7 @@
 [![pub package](https://img.shields.io/pub/v/whatsapp_sender_flutter.svg)](https://pub.dev/packages/whatsapp_sender_flutter)
 [![pub popularity](https://img.shields.io/pub/popularity/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
 [![pub likes](https://img.shields.io/pub/likes/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
+- <a href="https://github.com/patricknicolosi/smartkeys">SmartKeys</a> (An Android Java app to open your front door with a qr code)
 - <a href="https://github.com/patricknicolosi/webclient">WebClient</a> (Simplified class for make GET request with Arduino and ENC28j60 Ethernet module)
 
 
