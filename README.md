@@ -40,5 +40,6 @@ Contributed to several interesting open source projects
 
 <p align="left">
 &nbsp; <a href="mailto:patricknicolosi99@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://linkedin.com/in/patricknicolosi" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png"  width="50" /></a>
 </p>
 
