@@ -16,15 +16,23 @@
 
 
 <h3>🦺 My Projects </h3>
-- <a href="https://ricevimentiapp.it">Ricevimenti App</a>
-- <a href="https://github.com/patricknicolosi/spotify_flutter">Spotify Flutter</a> (A Spotify clone made with Flutter)
-- <a href="https://github.com/patricknicolosi/whatsapp_sender_flutter">WhatsApp Sender Flutter</a> (Unofficial whatsapp API via Web Scraping) 
-[![pub package](https://img.shields.io/pub/v/whatsapp_sender_flutter.svg)](https://pub.dev/packages/whatsapp_sender_flutter)
-[![pub popularity](https://img.shields.io/pub/popularity/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
-[![pub likes](https://img.shields.io/pub/likes/whatsapp_sender_flutter?logo=dart)](https://pub.dev/packages/whatsapp_sender_flutter/score)
-- <a href="https://github.com/patricknicolosi/smartkeys">SmartKeys</a> (An Android Java app to open your door with a qr code)
-- <a href="https://github.com/patricknicolosi/webclient">WebClient</a> (Simplified class for make GET request with Arduino and ENC28j60 Ethernet module)
-
+<ul>
+  <li>
+    <a href="https://ricevimentiapp.it">Ricevimenti App</a>
+  </li>
+  <li>
+    <a href="https://github.com/patricknicolosi/spotify_flutter">Spotify Flutter</a> (A Spotify clone made with Flutter)
+  </li>
+  <li>
+    <a href="https://github.com/patricknicolosi/whatsapp_sender_flutter">WhatsApp Sender Flutter</a> (Unofficial whatsapp API via Web Scraping) 
+  </li>
+  <li>
+    <a href="https://github.com/patricknicolosi/smartkeys">SmartKeys</a> (An Android Java app to open your door with a qr code)
+  </li>
+  <li>
+    <a href="https://github.com/patricknicolosi/webclient">WebClient</a> (Simplified class for make GET request with Arduino and ENC28j60 Ethernet module)
+  </li>
+</ul>
 
 
 <h3>Contributed</h3>
