@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning SQL Database develompment.
+- 🔭 &nbsp; I’m currently learning Algorithms.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Android developer, Flutter developer (Web, Mobile, Desktop).
 - ❤️ &nbsp; Enthusiast of 3d rendering alghoritms and Computer Graphics.
