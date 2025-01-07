@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I’m currently learning Python and Data Science.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Android developer, Flutter developer (Web, Mobile, Desktop).
-- ❤️ &nbsp; Enthusiast of 3d rendering alghoritms and Computer Graphics.
+- ❤️ &nbsp; Passionate of 3d rendering alghoritms and Computer Graphics.
 
 
 <h3>🛠 Programming languages, frameworks and software </h3>
