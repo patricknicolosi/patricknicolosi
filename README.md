@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python and Data Science.
-- 🎓 &nbsp; Studying Computer Science.
+- 🔭 &nbsp; I’m currently learning Operating Systems.
+- 🎓 &nbsp; Graduating in CS.
 - 💼 &nbsp; Android developer, Flutter developer (Web, Mobile, Desktop).
 - ❤️ &nbsp; Passionate of 3d rendering alghoritms and Computer Graphics.
 
