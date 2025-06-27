@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I’m currently learning Operating Systems.
 - 🎓 &nbsp; Graduating in CS.
-- 💼 &nbsp; Android developer, Flutter developer (Web, Mobile, Desktop).
+- 💼 &nbsp; Flutter developer
 - ❤️ &nbsp; Passionate of 3d rendering alghoritms and Computer Graphics.
 
 
