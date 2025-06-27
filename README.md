@@ -11,7 +11,7 @@
 <h3>🛠 Programming languages, frameworks and software </h3>
 
 - 💻 &nbsp; Dart | Flutter | Java | C++ | C#
-- 💾 &nbsp; Firebase | Isar | SqLite | SQL
+- 💾 &nbsp; Firebase | SQL
 - 🔧 &nbsp; Android Studio | Visual Studio code | Git
 
 
