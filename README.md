@@ -2,10 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Operating Systems.
 - 🎓 &nbsp; Graduating in CS.
 - 💼 &nbsp; Flutter developer
-- ❤️ &nbsp; Passionate of 3d rendering alghoritms and Computer Graphics.
+- ❤️ &nbsp; Passionate of UX-Research.
 
 
 <h3>🛠 Programming languages, frameworks and software </h3>
