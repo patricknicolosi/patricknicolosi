@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Graduating in CS.
+- 🎓 &nbsp; Graduated in CS.
 - 💼 &nbsp; Flutter developer
 - ❤️ &nbsp; Passionate of UX-Research.
 
