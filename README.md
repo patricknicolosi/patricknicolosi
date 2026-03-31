@@ -32,7 +32,7 @@
   </li>
 </ul>
 
-<h3>🧪 Oldies but Goodies (Experiments) </h3>
+<h3>🧪 Experiments </h3>
 <ul>
   <li><a href="https://github.com/patricknicolosi/spotify_flutter">Spotify Flutter</a> (A Spotify clone made with Flutter)</li>
   <li><a href="https://github.com/patricknicolosi/whatsapp_sender_flutter">WhatsApp Sender Flutter</a> (Unofficial WhatsApp API via Web Scraping)</li>
