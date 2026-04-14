@@ -16,7 +16,7 @@
 <h3>🦺 Featured Projects </h3>
 <ul>
   <li>
-    <b>InPlace</b> — Enterprise HRTech mobile app combining hybrid web components with native performance (Custom WebView architecture, JS Method Channels, FCM).
+    <a href="https://www.inplace.it/"><b>InPlace</b></a> — Enterprise HRTech mobile app combining hybrid web components with native performance (Custom WebView architecture, JS Method Channels, FCM).
   </li>
   <li>
     <b>Gym Manager</b> — FitTech platform for gym management with over 3,000 clients. Built for Windows, Android, and iOS using Riverpod, Supabase, and Dart Backend.
