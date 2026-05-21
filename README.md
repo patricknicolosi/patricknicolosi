@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; **BSc in Computer Science** (Università di Catania, 102/110) with an experimental thesis on Data-Driven UX Redesign.
+- 🎓 &nbsp; **BSc in Computer Science** ith an experimental thesis on Data-Driven UX Redesign.
 - 💼 &nbsp; **Freelance Flutter Developer** building cross-platform apps (iOS, Android, Windows Desktop).
 - ❤️ &nbsp; **Passionate about UX/UI** (with a secret UX crush).
 - 🚀 &nbsp; Full process owner: from requirements gathering and UI/UX structuring to iterative development and release.
